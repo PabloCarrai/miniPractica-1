@@ -1,0 +1,18 @@
+Simular un flujo colaborativo
+​ Subir la rama al repositorio remoto.
+​ Crear un pull request desde GitHub para fusionar la rama con main.
+ Revisar el pull request y completar la fusión.
+Este desafío cierra el curso, ya que integra todo lo trabajado en ambas sesiones: flujo
+local con Git, sincronización con GitHub, trabajo con ramas y revisión de cambios.
+Comprender este proceso es clave para futuros cursos y para el trabajo en proyectos
+colaborativos reales.
+ Formato esperado: El resultado del desafío será un repositorio en GitHub que
+contenga:
+el proyecto versionado iniciado en el Sesión 1,
+al menos una rama creada para una mejora,
+commits realizados sobre esa rama,
+y un pull request creado y fusionado en la rama main.
+La entrega se realizará mediante un link de acceso público al repositorio de GitHub,
+compartido a través del campus virtual, en la tarjeta de entrega ubicada en el mosaico de
+la Sesión 2. Verificá que el repositorio sea público o que el enlace permita su correcta
+visualización
