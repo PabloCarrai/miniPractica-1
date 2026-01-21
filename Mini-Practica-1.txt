@@ -1,0 +1,7 @@
+1.Crear repositorio vacío en GitHub.
+2.Copiar la URL del repositorio.
+3.En la terminal del proyecto ejecutar:
+○ git remote add origin <URL>
+○ git branch -M main (si es necesario renombrar la rama principal).
+○ git push -u origin main
+4 Verificar en GitHub que el código esté publicado.
